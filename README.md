@@ -4,5 +4,8 @@
 ## Integrantes
 David Vargas
 
-# Tecnologias
+## Tecnologias
 No se
+
+# Estado de proyecto
+Actividad Git realizada jeje
